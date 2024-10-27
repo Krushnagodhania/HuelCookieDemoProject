@@ -18,3 +18,4 @@ Currently, two official plugins are available:
 # Huel-Cookie
 # Huel-Cookie
 # Huel-Cookie
+# HuelCookieDemoProject
