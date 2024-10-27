@@ -17,3 +17,4 @@ Currently, two official plugins are available:
 # HuelCookieDemo
 # Huel-Cookie
 # Huel-Cookie
+# Huel-Cookie
